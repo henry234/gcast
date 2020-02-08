@@ -1,0 +1,61 @@
+[{
+    "img": "actor1",
+    "coords":{
+        "latitude": 10.7862743,
+        "longitude": 106.6908622
+    }
+},{
+    "img": "actor2",
+    "coords":{
+        "latitude": 10.7880833,
+        "longitude": 106.6935829
+    }
+},{
+    "img": "actor3",
+    "coords":{
+        "latitude": 10.7844192,
+        "longitude": 106.6903223
+    }
+},{
+    "img": "actor4",
+    "coords":{
+        "latitude": 10.7881464,
+        "longitude": 106.6916304
+    }
+},{
+    "img": "actor5",
+    "coords":{
+        "latitude": 10.78724,
+        "longitude": 106.6919308
+    }
+},{
+    "img": "actor6",
+    "coords":{
+        "latitude": 10.7871979,
+        "longitude": 106.6930895
+    }
+},{
+    "img": "actor7",
+    "coords":{
+        "latitude": 10.7944066,
+        "longitude": 106.6933173
+    }
+},{
+    "img": "actor8",
+    "coords":{
+        "latitude": 10.7915064,
+        "longitude": 106.6891019
+    }
+},{
+    "img": "actor9",
+    "coords":{
+        "latitude": 10.7913483,
+        "longitude": 106.6876965
+    }
+},{
+    "img": "actor10",
+    "coords":{
+        "latitude": 10.7882393,
+        "longitude": 106.6869562
+    }
+}]
